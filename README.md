@@ -15,7 +15,7 @@
 
 ### 🚀 About Me  
 
-I'm **Araya Haftu**, a passionate **Information Technology student** and **AI developer in progress**.  
+I'm  a passionate **Information Technology student** and **AI developer in progress**.  
 I love blending **creativity and technology** — building smart applications powered by **AI**, designing modern web experiences,  
 and exploring how innovation can solve real-world problems.
 
