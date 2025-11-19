@@ -1,7 +1,7 @@
 <!-- 🌟 Araya Haftu | Professional GitHub Profile README -->
 
 <h1 align="center">👋 Hi, I'm Araya Haftu</h1>
-<h3 align="center">💻 3rd-Year IT Student | AI & Web Developer | Tech Innovator</h3>
+<h3 align="center">💻 3rd-Year IT Student | AI & Web Developer | Full-stack Developer</h3>
 
 <p align="center">
   🌍 <b>Based in Ethiopia</b> • 🎓 <b>Mekelle Institute of Technology</b> • 💡 <b>Exploring AI & Creative Tech</b>
@@ -15,7 +15,7 @@
 
 ### 🚀 About Me  
 
-I'm  a passionate **Information Technology student** and **AI developer in progress**.  
+I'm  a passionate **Fullstack developer** and **AI developer in progress**.  
 I love blending **creativity and technology** — building smart applications powered by **AI**, designing modern web experiences,  
 and exploring how innovation can solve real-world problems.
 
@@ -38,6 +38,27 @@ and exploring how innovation can solve real-world problems.
 #### 🌱 [AI-Powered Soil Guardian](https://ai-powered-soil-guardian.vercel.app/)
 > An AI web app that analyzes and visualizes soil health using real-world mapping and reasoning models.  
 > ⚙️ Built with **Next.js**, **Tailwind CSS**, **OpenRouter AI**, and **Map APIs**.
+[![Soil Guardian Live](https://img.shields.io/badge/Project-Live-green)](https://ai-powered-soil-guardian.vercel.app/)
+
+
+#### 🎓 **ARU Academy – AI-Powered E-Learning Platform**
+> An AI-enhanced e-learning system with multi-role access, smart tutoring, and secure performance.  
+> ⚙️ Built with **HTML5**, **CSS3**, **Vanilla JS**, **Flask**, **MySQL**, and **Hugging Face AI**.
+[![Aru Academy Live](https://img.shields.io/badge/Project-Live-green)](https://smarteducation-eight.vercel.app/)
+
+
+#### 💸 **No Poverty – AI-Powered Budgeting & Microloan Platform**
+> A full-stack AI system offering smart budgeting, microloans, and financial guidance for low-income families.  
+> ⚙️ Built with **React**, **TypeScript**, **TailwindCSS**, **Node.js**, **PostgreSQL**, **Redis**, and **OpenAI GPT**.
+[![Pverity Allevation Live](https://img.shields.io/badge/Project-Live-green)](https://poverty-alleviation.onrender.com/)
+
+
+
+#### 📘 Aru E-Learning Platform
+> A modern and responsive e-learning website built for easy course browsing and self-paced learning.  
+> ⚙️ Built with **HTML5**, **CSS3**, **JavaScript (ES6+)**, **Font Awesome**, and **Google Fonts**.  
+[![Aru E-Learning Live](https://img.shields.io/badge/Project-Live-green)](https://arusoftwaresolutions.github.io/simple_e_learning_page/)
+
 
 ---
 
