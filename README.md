@@ -1,7 +1,7 @@
 <!-- 🌟 Araya Haftu | Professional GitHub Profile README -->
 
 <h1 align="center">👋 Hi, I'm Araya Haftu</h1>
-<h3 align="center">💻 3rd-Year IT Student | AI & Web Developer | Full-stack Developer</h3>
+<h3 align="center">💻 3rd-Year IT Student | AI & Web Developer | Tech Innovator</h3>
 
 <p align="center">
   🌍 <b>Based in Ethiopia</b> • 🎓 <b>Mekelle Institute of Technology</b> • 💡 <b>Exploring AI & Creative Tech</b>
