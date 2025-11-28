@@ -1,5 +1,3 @@
-<!-- 🌟 Araya Haftu | Professional GitHub Profile README -->
-
 <h1 align="center">👋 Hi, I'm Araya Haftu</h1>
 <h3 align="center">💻 3rd-Year IT Student | AI & Web Developer | Tech Innovator</h3>
 
@@ -40,25 +38,25 @@ and exploring how innovation can solve real-world problems.
 > ⚙️ Built with **Next.js**, **Tailwind CSS**, **OpenRouter AI**, and **Map APIs**.
 [![Soil Guardian Live](https://img.shields.io/badge/Project-Live-green)](https://ai-powered-soil-guardian.vercel.app/)
 
+#### 🛡️ [HerSafeSpace – Safety by Design Platform](https://power-hacks-hackathon-etx9.vercel.app)
+> A full‑stack safety‑by‑design platform providing safe digital spaces for African women and girls to learn, connect, and report abuse.  
+> ⚙️ Built with **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, **Node.js**, **Express**, and **PostgreSQL**.
+[![HerSafeSpace Live](https://img.shields.io/badge/Project-Live-green)](https://power-hacks-hackathon-etx9.vercel.app)
 
 #### 🎓 **ARU Academy – AI-Powered E-Learning Platform**
 > An AI-enhanced e-learning system with multi-role access, smart tutoring, and secure performance.  
 > ⚙️ Built with **HTML5**, **CSS3**, **Vanilla JS**, **Flask**, **MySQL**, and **Hugging Face AI**.
 [![Aru Academy Live](https://img.shields.io/badge/Project-Live-green)](https://smarteducation-eight.vercel.app/)
 
-
 #### 💸 **No Poverty – AI-Powered Budgeting & Microloan Platform**
 > A full-stack AI system offering smart budgeting, microloans, and financial guidance for low-income families.  
 > ⚙️ Built with **React**, **TypeScript**, **TailwindCSS**, **Node.js**, **PostgreSQL**, **Redis**, and **OpenAI GPT**.
 [![Pverity Allevation Live](https://img.shields.io/badge/Project-Live-green)](https://poverty-alleviation.onrender.com/)
 
-
-
 #### 📘 Aru E-Learning Platform
 > A modern and responsive e-learning website built for easy course browsing and self-paced learning.  
 > ⚙️ Built with **HTML5**, **CSS3**, **JavaScript (ES6+)**, **Font Awesome**, and **Google Fonts**.  
 [![Aru E-Learning Live](https://img.shields.io/badge/Project-Live-green)](https://arusoftwaresolutions.github.io/simple_e_learning_page/)
-
 
 ---
 
@@ -74,6 +72,7 @@ Explore all my projects, AI experiments, and creative work 👇
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
